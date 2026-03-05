@@ -1,1 +1,4 @@
 /// <reference types="vite/client" />
+
+VITE_SUPABASE_URL=https://pefpvvnexgpactrotsfq.supabase.co
+VITE_SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InBlZnB2dm5leGdwYWN0cm90c2ZxIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzI3MDI0ODEsImV4cCI6MjA4ODI3ODQ4MX0._uuIvzB_GAkjN3JxUshzLxUZ4HHwM0nM4fiDcOs0Eko
